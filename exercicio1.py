@@ -20,7 +20,7 @@ def multiplas_operacos(a,b):
 
 # Teste a sua função aqui (caso ache necessário)
 
-print(multiplas_operacos(10,2))
+# print(multiplas_operacos(10,2))
 
 
 
