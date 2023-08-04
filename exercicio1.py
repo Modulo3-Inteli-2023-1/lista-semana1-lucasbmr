@@ -4,7 +4,7 @@
 
 # Crie a função que será avaliada no exercício aqui
 
-def multiplas_operacos(a,b):
+def multiplas_operacoes(a,b):
     soma = a + b
     sub = a - b 
     mult = a * b
@@ -20,7 +20,7 @@ def multiplas_operacos(a,b):
 
 # Teste a sua função aqui (caso ache necessário)
 
-# print(multiplas_operacos(10,2))
+print(multiplas_operacoes(10,2))
 
 
 
